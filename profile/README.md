@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="https://capsule-render.vercel.app/main?type=waving&color=auto&height=200&section=header&text=AVENLYX%20LABS&fontSize=65&fontAlignY=40" alt="Avenlyx Labs Banner" />
+    <img src="../assets/logo-svg.svg" alt="Avenlyx Labs Banner" />
   </p>
 
   <h3>🚀 "Distilling tech chaos into high-leverage tools."</h3>
